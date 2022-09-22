@@ -1,16 +1,6 @@
 #!/usr/bin/python3
-def add(a, b):
-    """ my addition function
-
-    args:
-     a: 1
-     b:2
-
-     returns:
-
-     the return value. a+b
-
-     """
-     return (1+2)
-
-
+if_name_ == "_main_";
+from add_ 0 import add
+a = 1
+b = 2
+print("{:d} + {:d} = {:d}".format(a, b, add(a,b)))
